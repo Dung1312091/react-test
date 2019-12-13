@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loads and displays greeting 1`] = `
+"Snapshot Diff:
+- First value
++ Second value
+
+  <DocumentFragment>
+    <div>
+      <button>
+        Load Greeting
+      </button>
++     <h1>
++       hello there
++     </h1>
+    </div>
+  </DocumentFragment>"
+`;
